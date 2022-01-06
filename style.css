@@ -24,3 +24,11 @@ h1{
 section{
     height: 500px;
 }
+.btn{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon,tomato);
+    padding:5px 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700px;
+}
