@@ -8,6 +8,9 @@ h1{
 .name-highlights{
     background-color: orange;
 }
+.p{
+    color: dimgray;
+}
 .half{
     width: 40%;
     float: left;
@@ -23,6 +26,7 @@ h1{
 }
 section{
     height: 500px;
+    padding-bottom: 150px;
 }
 .btn{
     text-decoration: none;
@@ -31,4 +35,9 @@ section{
     border-radius: 5px;
     color: white;
     font-weight: 700px;
+}
+.dream-area{
+    background-image:url("dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
 }
