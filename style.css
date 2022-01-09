@@ -41,3 +41,23 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 }
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    height: 320px;
+}
+.experience-area{
+     background-image: url(images/exp-bg.png);
+     background-repeat: no-repeat;
+     background-position: left;
+}
+#full-stack{
+    border-left: 7px solid;
+}
+#baby-web{
+    border-left: 7px solid;
+    
+}
+footer p{
+ text-align: center;
+ font-size: 12px;
+}
